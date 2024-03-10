@@ -1,0 +1,8 @@
+ <odoo>
+    <data>
+        <record model="test_model" id="openacademy.nombres">
+            <field name="name">Guridi</field>
+            <field name="description">Español</field>
+        </record>
+    </data>
+</odoo>
